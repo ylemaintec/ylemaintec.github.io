@@ -1,1 +1,3 @@
-# Flexible-YLM is a fork of Flexible Jekyll by YLM
+# Yannick Le Maintec personal web site
+
+Github Pages for [www.ylemaintec.fr](https://www.ylemaintec.fr)
