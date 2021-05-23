@@ -1,17 +1,17 @@
 ---
 title:  Yannick Le Maintec
-date: 2018-03-18T10:27:06+02:00
+date: 2018-03-17T10:27:06+02:00
 author: Yannick Le Maintec
 layout: post
 img: ylm-tempo-large.jpg
 permalink: /yannick-le-maintec-bio/
 tags:
-  - Yannick Le Maintec
-  - blogueur 
+  - festival
   - musique latine
   - salsa
   - Tempo Latino
-description: Collaborateur du Monde depuis septembre 2020, je suis pasionnée de musiques caribéennes et latines. En 2009, j'ai ouvert sur la plateforme de blogs du site "Mundo Latino", qui dix ans plus tard, rejoindra les blogs de la rédaction sous le nom "Le jazz et la salsa".
+  - Yannick Le Maintec
+description: Collaborateur du Monde depuis septembre 2020, je suis pasionnée de musiques caribéennes et latines. En 2009, j'ai ouvert le blog Mundo Latino, qui dix ans plus tard, a rejoint l'espace des blogs de la rédaction sous le nom Le jazz et la salsa.
 ---
 
 Comme il est difficile de parler de soi, je partage avec vous le portrait paru dimanche 28 juillet 2019 dans le n°89 de Tempo Info, la gazette de Tempo Latino, le festival que j'ai eu l'honneur de parrainer la même année.
@@ -32,6 +32,8 @@ Du fond du cœur, Yannick parle des groupes : Kassav’, qui enfin reçoit la co
 
 «&nbsp;Je pars de Tempo le lundi, et l’année suivante quand je reviens le jeudi, je dis _hier_ en parlant du dimanche de l’année d’avant.&nbsp;»
 
+**Article publié dimanche 28 juillet 2019 dans le n°89 de Tempo Info**.
+
 ---
 
-Crédit photo : Olivier Urbanet
+(c) image : Olivier Urbanet

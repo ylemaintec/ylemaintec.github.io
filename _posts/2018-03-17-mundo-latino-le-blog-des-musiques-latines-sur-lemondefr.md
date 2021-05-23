@@ -1,5 +1,5 @@
 ---
-title: "&#171; Mundo Latino &#187;, le blog des musiques latines sur le Monde.fr"
+title: "&#171; Mundo Latino &#187;, le blog historique"
 date: 2018-03-18T12:51:21+02:00
 author: Yannick Le Maintec
 layout: post
