@@ -10,7 +10,7 @@ tags:
   - musique latine
   - salsa
   - Tempo Latino
-description : Les 26, 27 et 28 juillet 2019 à Vic-Fezensac dans le Gers, j&#8217;ai eu le plaisir et l&#8217;honneur de parrainer la 26è édition du festival. Voici l'éditorial qui a été publié dans le livret de bienvenue du festival.
+description : Les 26, 27 et 28 juillet 2019 à Vic-Fezensac dans le Gers, j&#8217;ai eu le plaisir et l&#8217;honneur de parrainer la 26è édition du festival "Tempo Latino". Voici l'éditorial qui a été publié dans le livret de bienvenue.
 ---
 
 Chaque été à Vic-Fezensac le festival Tempo Latino est le rendez-vous incontournable des amoureux des musiques latines. Après 25 ans de bons et loyaux services, son directeur Eric Duffau a souhaité passer la main. Pour beaucoup d’entre nous, les concerts aux arènes d’Oscar D’León, Rubén Blades ou Willy Colón font partie de nos plus beaux souvenirs. Nous lui en serons éternellement reconnaissants.
