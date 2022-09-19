@@ -20,6 +20,6 @@ Nées du même processus de transculturation, les musiques créoles, qu’elles 
 
 Le jazz et la salsa s’intéresse aux musiques venues de la Caraïbes, plus particulièrement les musiques afro-cubaines et le jazz caribéen.
 
-Retrouvez &#8220;Le jazz et la salsa&#8221; à l&#8217;adresse :
+Retrouvez &#8220;Le jazz et la salsa&#8221; à l&#8217;adresse suivante :
 
 >> [www.lemonde.fr/le-jazz-et-la-salsa](https://www.lemonde.fr/le-jazz-et-la-salsa/)
