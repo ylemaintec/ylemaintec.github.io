@@ -12,7 +12,7 @@ tags:
   - 2020
   - Latin-jazz
   - salsa
-description: 'Les meilleurs albums de musique latine de 2020 sélectionné par "Le jazz et la salsa".'
+description: 'Les meilleurs albums de musique latine de 2020 sélectionnés par "Le jazz et la salsa".'
 ---
 
 Comme chaque année à l'heure de la trève des confiseurs, "Le jazz et la salsa" publie sa sélections des albums publiés pendant l'année écoulée.
