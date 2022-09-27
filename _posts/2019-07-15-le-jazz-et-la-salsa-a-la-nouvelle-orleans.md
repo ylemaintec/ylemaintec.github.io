@@ -1,18 +1,18 @@
 ---
 title: "&#171; Le jazz et la salsa &#187; &#224; la d&#233;couverte de la Nouvelle-Orl&#233;ans"
-date: 2019-07-15T10:19:36+02:00
+date: 2019-07-15 08:19:36 Z
+permalink: "/le-jazz-et-la-salsa-a-la-nouvelle-orleans/"
+tags:
+- festival
+- jazz
+- New Orleans
+- French Quarter Festival
 author: Yannick Le Maintec2019-07-15T10:19:36+02:00
 layout: post
 img: fqf2019large.jpg
-permalink: /le-jazz-et-la-salsa-a-la-nouvelle-orleans/
-tags:
-  - festival
-  - jazz
-  - New Orleans
-  - French Quarter Festival
-description:  Le jazz et la salsa s'est rendu au French Quarter Festival, l'occasion parfaite pour faire connaissance avec la scène de la Nouvelle-Orléans
+description: Le jazz et la salsa s'est rendu au French Quarter Festival, l'occasion
+  parfaite pour faire connaissance avec la scène de la Nouvelle-Orléans
 ---
-
 
 Quand j’ai fait part à mes amis originaires de la Nouvelle-Orléans de mon envie d’assister au célèbre Jazz & Heritage Festival qui fêtait cette année son cinquantenaire, je me suis entendu répondre : « Le Jazz Fest c’est super. Mais si tu veux vraiment découvrir la scène locale, c’est au French Quarter que tu dois aller. Un festival pour les habitants, avec les musiciens du coin. Et en plus c’est gratuit ! »
 

@@ -1,17 +1,18 @@
 ---
-title: '&#171; Le jazz et la salsa &#187;, le blog du Monde dédié aux musiques caribéennes'
-date: 2018-03-18T18:51:21+02:00
-author: Yannick Le Maintec
-layout: post
-img: Malecon-1024x576-1.jpg
-permalink: /le-jazz-et-la-salsa-blog-du-monde-sur-les-musiques-caribeennes/
+title: "&#171; Le jazz et la salsa &#187;, le blog du Monde dédié aux musiques caribéennes"
+date: 2018-03-18 16:51:21 Z
+permalink: "/le-jazz-et-la-salsa-blog-du-monde-sur-les-musiques-caribeennes/"
 tags:
 - blog
 - Le jazz et la salsa
 - Le Monde
 - salsa
 - latin-jazz
-description: Créé en juillet 2018, "Le jazz et la salsa" est un blog de la rédaction du Monde consacré aux musiques caribéennes. Il a succédé à "Mundo Latino".
+author: Yannick Le Maintec
+layout: post
+img: Malecon-1024x576-1.jpg
+description: Créé en juillet 2018, "Le jazz et la salsa" est un blog de la rédaction
+  du Monde consacré aux musiques caribéennes. Il a succédé à "Mundo Latino".
 ---
 
 « Ni noires, ni blanches » disait d’elles le journaliste Bertrand Dicale.

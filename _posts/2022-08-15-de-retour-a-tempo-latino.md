@@ -1,16 +1,17 @@
 ---
 title: De retour à Tempo Latino
-date: 2022-08-15T10:07:53+02:00
+date: 2022-08-15 08:07:53 Z
+permalink: "/de-reour-a-tempo-latino/"
+tags:
+- festival
+- musique latine
+- salsa
+- Tempo Latino
 author: Yannick Le Maintec
 layout: post
 img: tempo-latino-2022.jpg
-permalink: /de-reour-a-tempo-latino/
-tags:
-  - festival
-  - musique latine
-  - salsa
-  - Tempo Latino
-description : Repoussée deux fois à cause de la pandémie, la vingt-septième édition du festival Tempo Latino a connu un succès artistique et populaire.
+description: Repoussée deux fois à cause de la pandémie, la vingt-septième édition
+  du festival Tempo Latino a connu un succès artistique et populaire.
 ---
 
 Après deux ans d’interruption pour cause de coronavirus, Tempo Latino s’est tenu les 29, 30 et 31 juillet 2022 à Vic-Fezensac dans le Gers. Plus grand festival de musique latine d’Europe, la manifestation proposait chaque soir à 21 heures et 23 heures deux concerts dans les arènes Joseph Fourniol.

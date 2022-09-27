@@ -1,15 +1,16 @@
 ---
 title: Harold López-Nussa brille avec « Te Lo Dije »
-date: 2020-11-13T19:00:39+02:00
+date: 2020-11-13 17:00:39 Z
+permalink: "/2020-11-13-harold-lopez-nussa-brille-avec-te-lo-dije/"
+tags:
+- latin-jazz
+- Cuba
+- interview
 author: Yannick Le Maintec
 layout: post
 img: harold_lopez-nussa.jpg
-permalink: /2020-11-13-harold-lopez-nussa-brille-avec-te-lo-dije/
-tags:
-  - latin-jazz
-  - Cuba
-  - interview
-description: Le pianiste cubain Harold López-Nussa rend hommage aux musiques de son pays avec un album jubilatoire. 
+description: Le pianiste cubain Harold López-Nussa rend hommage aux musiques de son
+  pays avec un album jubilatoire.
 ---
 
 Fin des années 70. Cols pelle à tarte, moustaches et rouflaquettes, le quartet interprète *El Buey Cansao* dans un remake en noir et blanc de Para Bailar, télécrochet dominical très populaire à Cuba ces années-là. Cimafunk est comme un poisson dans l’eau et le générique convie la danseuse révélée par l’émission originale. Réalisé par Nelson Ponse, Raupa et Mola, brillant trio de graphistes et vidéastes en vue, le clip est tout bonnement irrésistible.

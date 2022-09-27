@@ -1,18 +1,18 @@
 ---
 title: 'Musique latine : les meilleurs albums de 2021'
-date: 2022-01-05T18:51:21+02:00
+date: 2022-01-05 16:51:21 Z
+permalink: "/musique-latine-les-meilleurs-albums-de-2021/"
+tags:
+- bestof
+- retrospective
+- 2021
+- Latin-jazz
+- salsa
 author: Yannick Le Maintec
 layout: post
 img: 2021.jpg
-permalink: /musique-latine-les-meilleurs-albums-de-2021/
-tags:
-tags:
-  - bestof
-  - retrospective
-  - 2021
-  - Latin-jazz
-  - salsa
-description: 'Les meilleurs albums de musique latine publiés en 2021 sélectionnés par "Le jazz et la salsa".'
+description: Les meilleurs albums de musique latine publiés en 2021 sélectionnés par
+  "Le jazz et la salsa".
 ---
 
 Comme chaque année à l'heure de la trêve des confiseurs, "Le jazz et la salsa" publie sa sélections des albums publiés pendant l'année écoulée.

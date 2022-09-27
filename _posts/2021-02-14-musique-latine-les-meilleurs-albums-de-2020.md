@@ -1,18 +1,18 @@
 ---
 title: 'Musique latine : les meilleurs albums de 2020'
-date: 2021-02-14T18:51:21+02:00
+date: 2021-02-14 16:51:21 Z
+permalink: "/musique-latine-les-meilleurs-albums-de-2020/"
+tags:
+- bestof
+- retrospective
+- 2020
+- Latin-jazz
+- salsa
 author: Yannick Le Maintec
 layout: post
 img: jazzysalsa-bestof2020.jpg
-permalink: /musique-latine-les-meilleurs-albums-de-2020/
-tags:
-tags:
-  - bestof
-  - retrospective
-  - 2020
-  - Latin-jazz
-  - salsa
-description: 'Les meilleurs albums de musique latine de 2020 sélectionnés par "Le jazz et la salsa".'
+description: Les meilleurs albums de musique latine de 2020 sélectionnés par "Le jazz
+  et la salsa".
 ---
 
 Comme chaque année à l'heure de la trève des confiseurs, "Le jazz et la salsa" publie sa sélections des albums publiés pendant l'année écoulée.

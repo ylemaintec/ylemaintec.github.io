@@ -1,17 +1,17 @@
 ---
 title: Toros y Salsa fête ses 25 ans
-date: 2019-09-29T10:54:08+02:00
+date: 2019-09-29 08:54:08 Z
+permalink: "/de-retour-de-la-25e-edition-de-toros-y-salsa/"
+tags:
+- festival
+- salsa
+- Toros y Salsa
 author: Yannick Le Maintec
 layout: post
 img: DSC01661.jpg
-permalink: /de-retour-de-la-25e-edition-de-toros-y-salsa/
-tags:
-  - festival
-  - salsa
-  - Toros y Salsa
-description: Au programme de la 25è édition de Toros y Salsa &#58; Jimmy Bosch, Moncho Rivera, Mercadonegro, Tromboraga et bien entendu la descarga.
+description: Au programme de la 25è édition de Toros y Salsa &#58; Jimmy Bosch, Moncho
+  Rivera, Mercadonegro, Tromboraga et bien entendu la descarga.
 ---
-
 
 <ul class="wp-block-gallery columns-3 is-cropped">
   <li class="blocks-gallery-item">

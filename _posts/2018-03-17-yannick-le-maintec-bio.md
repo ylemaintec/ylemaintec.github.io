@@ -1,17 +1,18 @@
 ---
-title:  Yannick Le Maintec
-date: 2018-03-17T10:27:06+02:00
+title: Yannick Le Maintec
+date: 2018-03-17 08:27:06 Z
+permalink: "/yannick-le-maintec-bio/"
+tags:
+- festival
+- musique latine
+- salsa
+- Tempo Latino
+- Yannick Le Maintec
 author: Yannick Le Maintec
 layout: post
 img: ylm-tempo-large.jpg
-permalink: /yannick-le-maintec-bio/
-tags:
-  - festival
-  - musique latine
-  - salsa
-  - Tempo Latino
-  - Yannick Le Maintec
-description: Entré au Monde en septembre 2000, j'ai ouvert en 2009 le blog "Mundo Latino" devenu depuis "Le jazz et la salsa".
+description: Entré au Monde en septembre 2000, j'ai ouvert en 2009 le blog "Mundo
+  Latino" devenu depuis "Le jazz et la salsa".
 ---
 
 Comme il est difficile de parler de soi, je vous partage le portrait paru en 2019 dans la gazette du festival "Tempo Latino" que j'ai eu le plaisir de parrainer cette année-là.

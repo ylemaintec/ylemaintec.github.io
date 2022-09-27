@@ -1,10 +1,7 @@
 ---
-title: '&#171; Le jazz et la salsa &#187; en anglais'
-date: 2019-03-18T18:51:21+02:00
-author: Yannick Le Maintec
-layout: post
-img: carmen-la-cubana-large.jpg
-permalink: /le-jazz-et-la-salsa-in-english/
+title: "&#171; Le jazz et la salsa &#187; en anglais"
+date: 2019-03-18 16:51:21 Z
+permalink: "/le-jazz-et-la-salsa-in-english/"
 tags:
 - blog
 - Le jazz et la salsa
@@ -13,7 +10,10 @@ tags:
 - Mundo Laino
 - salsa
 - latin-jazz
-description: 'The best articles of "Le jazz et la salsa" in English.'
+author: Yannick Le Maintec
+layout: post
+img: carmen-la-cubana-large.jpg
+description: The best articles of "Le jazz et la salsa" in English.
 ---
 
 # Mundo Latino

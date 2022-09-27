@@ -1,17 +1,20 @@
 ---
 title: 'Rare Latin Jazz / Rare Latin Soul : la playlist'
-date: 2019-10-19T20:58:34+02:00
+date: 2019-10-19 18:58:34 Z
+permalink: "/rare-latin-jazz-rare-latin-soul-la-playlist-sur-discogs/"
+tags:
+- Discographie
+- Latin-soul
+- Latin-jazz
+- Le jazz et la salsa
 author: Yannick Le Maintec
 layout: post
 img: rarelatinjazz.jpg
-permalink: /rare-latin-jazz-rare-latin-soul-la-playlist-sur-discogs/
-tags:
-  - Discographie
-  - Latin-soul
-  - Latin-jazz
-  - Le jazz et la salsa
-description: Pour Le jazz et la salsa, Osman Jr, leader de Setenta, décrypte sa double sélection "Rare Latin Jazz" / "Rare Latin Soul" qui vient de sortir chez Wagram. Voici la playlist détaillée sur Discogs.
+description: Pour Le jazz et la salsa, Osman Jr, leader de Setenta, décrypte sa double
+  sélection "Rare Latin Jazz" / "Rare Latin Soul" qui vient de sortir chez Wagram.
+  Voici la playlist détaillée sur Discogs.
 ---
+
 A lire dans Le jazz et la salsa : [Rare Latin Jazz/Rare Latin Soul&nbsp;: à la recherche des sons perdus](https://www.lemonde.fr/le-jazz-et-la-salsa/article/2019/10/16/rare-latin-jazz-rare-latin-soul-a-la-recherche-des-sons-perdus_6015677_5324427.html)
 
 <p class="has-large-font-size">

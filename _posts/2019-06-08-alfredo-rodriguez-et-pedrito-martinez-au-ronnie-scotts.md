@@ -1,19 +1,21 @@
 ---
 title: Alfredo Rodríguez et Pedrito Martínez au Ronnie Scott’s
-date: 2019-06-08T14:05:37+02:00
+date: 2019-06-08 12:05:37 Z
+permalink: "/alfredo-rodriguez-et-pedrito-martinez-au-ronnie-scotts/"
+tags:
+- scène
+- Londres
+- Cuba
+- jazz afro-cubain
+- latin-jazz
+- critique
+- traduction
 author: Yannick Le Maintec
 layout: post
 img: AlfRod-MedMar-Anna-Webber-Mack-Ave.jpeg
-permalink: /alfredo-rodriguez-et-pedrito-martinez-au-ronnie-scotts/
-tags:
-  - scène
-  - Londres
-  - Cuba
-  - jazz afro-cubain
-  - latin-jazz
-  - critique
-  - traduction
-description: '"Le jazz et la salsa" a le plaisir de vous proposer la traduction française de l&#8217;article du concert donné par Alfredo Rodríguez et Pedrito Martínez au Ronnie Scott&#8217;s de Londres.'
+description: '"Le jazz et la salsa" a le plaisir de vous proposer la traduction française
+  de l&#8217;article du concert donné par Alfredo Rodríguez et Pedrito Martínez au
+  Ronnie Scott&#8217;s de Londres.'
 ---
 
 **Sebastian Scotney** est le directeur de publication du site London Jazz News qui a accueilli les traductions en anglais de plusieurs articles du Jazz et la Salsa. L&#8217;article [Alfredo Rodriguez and Pedrito Martinez, Ronnie Scott&#8217;s review &#8211; Cuban wizards of piano and percussion](https://www.theartsdesk.com/new-music/alfredo-rodriguez-and-pedrito-martinez-ronnie-scotts-review-cuban-wizards-piano-and) a été publié mardi 4 juin sur le site TheArtsDesk.com.

@@ -1,16 +1,19 @@
 ---
-title: « A La Havane, la conga festive de la Nouvelle-Orléans défie la politique cubaine de Trump »
-date: 2020-02-08T16:22:39+02:00
+title: "« A La Havane, la conga festive de la Nouvelle-Orléans défie la politique
+  cubaine de Trump »"
+date: 2020-02-08 14:22:39 Z
+permalink: "/a-la-havane-la-conga-festive-de-la-nouvelle-orleans-defie-la-politique-cubaine-de-trump/"
+tags:
+- festival
+- latin-jazz
+- New Orleans
+- Cuba
 author: Yannick Le Maintec
 layout: post
 img: 20200115_164015.jpg
-permalink: /a-la-havane-la-conga-festive-de-la-nouvelle-orleans-defie-la-politique-cubaine-de-trump/
-tags:
-  - festival
-  - latin-jazz
-  - New Orleans
-  - Cuba
-description: Tel était le titre savoureux choisi par Reuters pour décrire le défilé à La Havane de musiciens de la Nouvelle-Orléans pendant Jazz Plaza. &#8220;Le jazz et la salsa&#8221; y était.
+description: Tel était le titre savoureux choisi par Reuters pour décrire le défilé
+  à La Havane de musiciens de la Nouvelle-Orléans pendant Jazz Plaza. &#8220;Le jazz
+  et la salsa&#8221; y était.
 ---
 
 Pour la deuxième année consécutive, Le jazz et la salsa s&#8217;est rendu au festival international de jazz de La Havane, plus connu sous le nom de Jazz Plaza. Le reportage, disponible sur le site du Monde, a été largement relayé sur les réseaux sociaux.

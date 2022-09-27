@@ -1,15 +1,16 @@
 ---
 title: La Excelencia réussit son retour avec « Machete »
-date: 2020-08-11T10:00:39+02:00
+date: 2020-08-11 08:00:39 Z
+permalink: "/2020-08-11-la-excelencia-reussit-son-retour-avec-machete/"
+tags:
+- New-York
+- salsa
+- interview
 author: Yannick Le Maintec
 layout: post
 img: la-excelencia.jpg
-permalink: /2020-08-11-la-excelencia-reussit-son-retour-avec-machete/
-tags:
-  - New-York
-  - salsa
-  - interview
-description: Il y a dix ans La Excelencia ambitionnait de révolutionner la salsa new-yorkaise. Dans « Le jazz et la salsa », je vous raconte le surprenant retour de La Excelencia.
+description: Il y a dix ans La Excelencia ambitionnait de révolutionner la salsa new-yorkaise.
+  Dans « Le jazz et la salsa », je vous raconte le surprenant retour de La Excelencia.
 ---
 
 La première fois que j'ai rencontré les musiciciens de La Excelencia, c'était en 2010 à la sortie du concert qu'ils venaient de donner au New Morning. Ils venaient de mettre le feu au club de la rue des petites écuries. Epuisés mais heureux, les deux fondateurs s'étaient confiés sans filtre. L'interview réalisée avec l'aide de ma complice Déelle fut publiée une première fois sur Salsa France, puis rééditée quelques mois plus tard sur Mundo Latino.

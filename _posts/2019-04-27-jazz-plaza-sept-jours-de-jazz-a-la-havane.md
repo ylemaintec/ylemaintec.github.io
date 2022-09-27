@@ -1,20 +1,20 @@
 ---
-title: '&#171; Le jazz et la salsa &#187; au festival Jazz Plaza'
-date: 2019-04-27T13:22:51+02:00
+title: "&#171; Le jazz et la salsa &#187; au festival Jazz Plaza"
+date: 2019-04-27 11:22:51 Z
+permalink: "/le-jazz-et=la-salsa-a-jazz-plaza/"
+tags:
+- Jazz Plaza
+- Latin-jazz
+- Cuba
+- Le jazz et la salsa
+- compte-rendu
+- festival
+- reportage
 author: Yannick Le Maintec
 layout: post
 img: Joss-Stone-Omara-Portuondo-700.jpg
-permalink: /le-jazz-et=la-salsa-a-jazz-plaza/
-tags:
-  - Jazz Plaza
-  - Latin-jazz
-  - Cuba
-  - Le jazz et la salsa
-  - compte-rendu
-  - festival
-  - reportage
-description: '"Le jazz et la salsa" publie
- une série d&#8217;articles consacrée à la dernière édition du festival Jazz Plaza, un rendez-vous aussi méconnu que réputé.'
+description: '"Le jazz et la salsa" publie une série d&#8217;articles consacrée à
+  la dernière édition du festival Jazz Plaza, un rendez-vous aussi méconnu que réputé.'
 ---
 
   La 34è édition du festival international de jazz de la Havane s&#8217;est déroulé du 15 au 20 janvier 2019. Avec près de deux cents concerts dans une vingtaine de lieux, Jazz Plaza est le Saint-Graal de l&#8217;amateur de latin jazz. A retenir de cette édition : une descarga de folie, **Unity** l&#8217;hommage à **Michael Jackson**, le **Preservation Hall Jazz Band** de la Nouvelle Orléans, la rencontre de&nbsp;**Harold López-Nussa** avec **Pedrito Martínez**, l&#8217;union du jazz et du guaguanco, et les plus belles voix féminines de Cuba réunies par **Roberto Fonseca**.

@@ -1,18 +1,20 @@
 ---
-title: '&#171; Le jazz et la salsa &#187; s&#8217;enflamme pour le London Latin Jazz Festival'
-date: 2019-11-16T17:30:12+02:00
+title: "&#171; Le jazz et la salsa &#187; s&#8217;enflamme pour le London Latin Jazz
+  Festival"
+date: 2019-11-16 15:30:12 Z
+permalink: "/le-jazz-et-la-salsa-senflamme-pour-le-london-latin-jazz-festival/"
+tags:
+- Festival
+- Londres
+- Latin-jazz
+- Le jazz et la salsa
 author: Yannick Le Maintec
 layout: post
 img: Jay-Phelps-1024x614.jpg
-permalink: /le-jazz-et-la-salsa-senflamme-pour-le-london-latin-jazz-festival/
-tags:
-  - Festival
-  - Londres
-  - Latin-jazz
-  - Le jazz et la salsa
-description: Comme chaque année, le Jazz et la salsa s&#8217;est rendu à Londres pour assister au London Latin Jazz Fest, organisé par Peter Conway et Eliane Correa au PizzaExpressLive de Soho.
+description: Comme chaque année, le Jazz et la salsa s&#8217;est rendu à Londres pour
+  assister au London Latin Jazz Fest, organisé par Peter Conway et Eliane Correa au
+  PizzaExpressLive de Soho.
 ---
-
 
 Brésil, Argentine, Colombie, Portugal, et bien sûr Cuba. Le temps d’une édition, le London Latin Jazz Festival de Londres s’est transformé en festival de toutes les musiques latines. Le compte-rendu complet de la septième édition du London Latin Jazz Fest est disponible sur le Monde.fr : [Le London Latin Jazz Festival, reflet de la diversité londonienne](https://www.lemonde.fr/le-jazz-et-la-salsa/article/2019/11/13/le-london-latin-jazz-festival-reflet-de-la-diversite-londonienne_6018961_5324427.html).
 

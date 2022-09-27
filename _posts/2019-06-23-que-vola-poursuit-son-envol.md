@@ -1,20 +1,21 @@
 ---
 title: Que Vola ? poursuit son envol
-date: 2019-06-23T22:28:42+02:00
+date: 2019-06-23 20:28:42 Z
+permalink: "/que-vola-poursuit-son-envol/"
+tags:
+- Cuba
+- jazz
+- rumba
+- sortie d'album
+- critique
+- interview
 author: Yannick Le Maintec
 layout: post
 img: que-vola-large.jpg
-permalink: /que-vola-poursuit-son-envol/
-tags:
-  - Cuba
-  - jazz
-  - rumba
-  - sortie d'album
-  - critique
-  - interview
-description: Le jazz et la salsa rencontre le tromboniste Fidel Fourneyron à l'occasion de la sortie de son album Que Vola ?
-
+description: Le jazz et la salsa rencontre le tromboniste Fidel Fourneyron à l'occasion
+  de la sortie de son album Que Vola ?
 ---
+
 « Dans Que Vola&nbsp;?, la ligne mélodique disparaît. Ce sont les tambours qui impriment l’intention. Le Rhodes lie le tout et distille les ambiances. S’affranchir du carcan du montuno.
 
 Car s’il né est jazz, le latin jazz est une musique de danse, avec les contraintes que cela implique. Ne sont conservées que les questions/réponses, propres aux musiques afro caribéennes, à ceci près que les voix sont celles des instruments à vent. »

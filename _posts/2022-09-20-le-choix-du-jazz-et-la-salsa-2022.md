@@ -1,20 +1,18 @@
 ---
-title: 'La sélection mensuelle du "Jazz et la salsa"'
-date: 2022-09-20-T7:51:21+02:00
+title: La sélection mensuelle du "Jazz et la salsa"
+date: 2022-09-20 05:51:21 Z
+permalink: le-choix-du-jazz-et-la-salsa-2022
+tags:
+- bestof
+- retrospective
+- 2020
+- Latin-jazz
+- salsa
 author: Yannick Le Maintec
 layout: post
 img: le-choix-5.jpg
-permalink: le-choix-du-jazz-et-la-salsa-2022
-tags:
-tags:
-  - bestof
-  - retrospective
-  - 2020
-  - Latin-jazz
-  - salsa
-description: 'Les meilleurs albums afro-caribéens sélectionné par "Le jazz et la salsa".'
+description: Les meilleurs albums afro-caribéens sélectionné par "Le jazz et la salsa".
 ---
-
 
 ## Le choix #5 (septembre 2022) :  Filiations
 

@@ -1,15 +1,16 @@
 ---
-title: "Cuba, au delà des couleurs"
-date: 2020-11-14T19:00:39+02:00
+title: Cuba, au delà des couleurs
+date: 2020-11-14 17:00:39 Z
+permalink: "/2020-11-14-justine-darmon-cuba-au-dela-des-couleurs/"
+tags:
+- Cuba
+- livre
+- photographie
 author: Yannick Le Maintec
 layout: post
 img: au-dela-des-couleurs.jpg
-permalink: /2020-11-14-justine-darmon-cuba-au-dela-des-couleurs/
-tags:
-  - Cuba
-  - livre
-  - photographie
-description: De retour de Cuba, la photographe Justine Darmon publie " Au delà des couleurs". Plongée en monochromie. 
+description: De retour de Cuba, la photographe Justine Darmon publie " Au delà des
+  couleurs". Plongée en monochromie.
 ---
 
 J'ai aimé son regard sur Cuba. Aux antipodes des images d'Epinal aux  pastels façon Miami Vice, Justine Darmon impose son filtre noir & blanc. Sa vision a rencontré mon ressenti, ni voyeur, ni bling-bling. La photographe m'a solicité pour sa 4è de couverture. Comment refuser ? L'exercice ne fut pas si facile. Plaquer son propre ressenti sur le regard de l'autre : une gageure.

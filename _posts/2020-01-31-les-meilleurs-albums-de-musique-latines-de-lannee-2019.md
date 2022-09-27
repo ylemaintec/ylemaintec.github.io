@@ -1,17 +1,19 @@
 ---
 title: 'Musique latine 2019 : Les meilleurs albums'
-date: 2020-01-31T21:16:38+02:00
+date: 2020-01-31 19:16:38 Z
+permalink: "/les-meilleurs-albums-de-musique-latines-de-lannee-2019/"
+tags:
+- bestof
+- retrospective
+- 2019
+- Latin-jazz
+- salsa
 author: Yannick Le Maintec
 layout: post
 img: 2019.jpg
-permalink: /les-meilleurs-albums-de-musique-latines-de-lannee-2019/
-tags:
-  - bestof
-  - retrospective
-  - 2019
-  - Latin-jazz
-  - salsa
-description: Comme chaque année depuis dix ans, &#8220;Le jazz et la salsa&#8221; sa sélection d&#8217;albums de musique latine publiés au cours de l&#8217;année écoulée.
+description: Comme chaque année depuis dix ans, &#8220;Le jazz et la salsa&#8221;
+  sa sélection d&#8217;albums de musique latine publiés au cours de l&#8217;année
+  écoulée.
 ---
 
 Toute sélection est personnelle et subjective. C&#8217;est ainsi qu&#8217;au moment où [&#8220;Le jazz et la salsa&#8221;](https://www.lemonde.fr/le-jazz-et-la-salsa/) a intégré le site du Monde, j&#8217;ai préféré l&#8217;expression &#8220;coups de cœur&#8221; à celle de &#8220;meilleurs albums&#8221;, même si cette dernière était plus percutante.

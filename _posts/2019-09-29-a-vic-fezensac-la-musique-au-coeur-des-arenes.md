@@ -1,16 +1,19 @@
 ---
 title: A Vic-Fezensac, la musique au cœur des arènes
-date: 2019-09-29T10:00:54+02:00
+date: 2019-09-29 08:00:54 Z
+permalink: "/a-vic-fezensac-la-musique-au-coeur-des-arenes/"
+tags:
+- festival
+- musique latine
+- Salsa
+- Tempo Latino
 author: Yannick Le Maintec
 layout: post
-img: tempo-latino-600.jpg  
-permalink: /a-vic-fezensac-la-musique-au-coeur-des-arenes/
-tags:
-  - festival
-  - musique latine
-  - Salsa
-  - Tempo Latino
-description: Chaque année, "Le jazz et la salsa" publie la programmation du festival Tempo Latino. Au moment où l&#8217;organisation s&#8217;interrogeait sur son avenir, j&#8217;accompagnais ma présentation d&#8217;un éditorial qui a connu un certain succès.
+img: tempo-latino-600.jpg
+description: Chaque année, "Le jazz et la salsa" publie la programmation du festival
+  Tempo Latino. Au moment où l&#8217;organisation s&#8217;interrogeait sur son avenir,
+  j&#8217;accompagnais ma présentation d&#8217;un éditorial qui a connu un certain
+  succès.
 ---
 
 Depuis 26&nbsp;ans, Vic-Fezensac est la vitrine des musiques latines en France. Chaque année, son festival est attendu et observé. Tempo Latino donne le la d’un genre mineur qui rassemble un public fidèle depuis l’âge d’or de la salsa.

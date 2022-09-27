@@ -1,17 +1,18 @@
 ---
 title: "&#171; Mundo Latino &#187;, le blog historique"
-date: 2018-03-18T12:51:21+02:00
+date: 2018-03-18 10:51:21 Z
+permalink: "/mundo-latino-le-blog-des-musiques-latines-sur-lemondefr"
+tags:
+- blog
+- Mundo Latino
+- Le Monde
+- salsa
+- latin-jazz
 author: Yannick Le Maintec
 layout: post
 img: malecon-noche.jpg
-permalink: /mundo-latino-le-blog-des-musiques-latines-sur-lemondefr
-tags:
-  - blog
-  - Mundo Latino
-  - Le Monde
-  - salsa
-  - latin-jazz
-description: Créé en 2009, "Mundo Latino" était un blog invité du Monde.fr consacré aux musiques latines.
+description: Créé en 2009, "Mundo Latino" était un blog invité du Monde.fr consacré
+  aux musiques latines.
 ---
 
 « L’objet de **Mundo Latino** est de mieux faire connaître les musiques latines et afro-caribéennes. Son moyen ? Aller à la rencontre des artistes. Loin du mainstream assourdissant, **Mundo Latino** tente de conserver un point de vue décalé dans le but de faire découvrir des artistes moins connus. Plus que tout, **Mundo Latino** est un fervent défenseur de la scène, pour que vive la musique live ! »

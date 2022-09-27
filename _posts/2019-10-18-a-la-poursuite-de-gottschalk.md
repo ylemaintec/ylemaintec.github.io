@@ -1,17 +1,17 @@
 ---
 title: A la poursuite de Louis Moreau Gottschalk
-date: 2019-10-18T20:10:53+02:00
+date: 2019-10-18 18:10:53 Z
+permalink: "/giaume-a-la-poursuite-de-gottschalk/"
+tags:
+- jazz
+- musique classique
+- New Orleans
+- Yohan Giaume
+- Louis Moreau Gottschalk
+- MNOP
 author: Yannick Le Maintec
 layout: post
 img: yohan-giaume.jpg
-permalink: /giaume-a-la-poursuite-de-gottschalk/
-tags:
-  - jazz
-  - musique classique
-  - New Orleans
-  - Yohan Giaume
-  - Louis Moreau Gottschalk
-  - MNOP
 description: Le chroniqueur est parti à la recherche de Gottschalk, il a trouvé Giaume.
 ---
 
